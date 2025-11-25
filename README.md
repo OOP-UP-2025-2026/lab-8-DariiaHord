@@ -224,7 +224,7 @@ public String toString() {
 #### Протестуйте свій клас у методі `main`
 
 ```java
-public class ua.opnu.Main {
+public class ua.ua.opnu.Main {
     public static void main(String[] args) {
 
         // 1. Порожнє значення (наприклад, у користувача немає по-батькові)
@@ -282,7 +282,7 @@ class BookData {
 
 ```java
 import java.lang.reflect.Method;
-public class ua.opnu.Main {
+public class ua.ua.opnu.Main {
     public static void main(String[] args) {
         Printer myPrinter = new Printer();
         Integer[] intArray = {1, 2, 3};
